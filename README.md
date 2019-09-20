@@ -1,1 +1,0 @@
-# yukskerja.github.io
