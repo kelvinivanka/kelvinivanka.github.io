@@ -2030,7 +2030,7 @@ h1, h2, h3, h4, h5, h6 {
   padding: 6px 10px;
   text-decoration: none;
   display: inline-block;
-  color: #fff;
+  color: #49e4fa;
   font-weight: 400;
   font-size: 12px;
   text-transform: uppercase;
@@ -2298,12 +2298,12 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .banner-area {
-  background: url(../img/header-bg.jpg) center;
+  background: url(../img/yukskerjacover2.png) center;
   background-size: cover;
 }
 
 .banner-area .overlay-bg {
-  opacity: .95;
+  opacity: .0;
 }
 
 .banner-content {
